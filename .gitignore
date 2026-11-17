@@ -1,0 +1,3 @@
+.saohua_webhook
+*.env
+__pycache__/
